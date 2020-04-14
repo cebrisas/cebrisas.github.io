@@ -5,3 +5,10 @@ body {
     padding: 3rem 1.5rem;
     text-align: center;
   }
+
+  .bd-example {
+    padding: 1.5rem;
+    margin-right: 0;
+    margin-left: 0;
+    border-width: .2rem;
+}
